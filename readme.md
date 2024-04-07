@@ -43,7 +43,3 @@ For start installation please visit Wiki page
 - Integrate an new service
 - Open issue any bug on the project
 - Add more document about the project
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel api startup, please send an e-mail to İbrahim S. Orencik at o@yedincisenol.com. All security vulnerabilities will be promptly addressed.
